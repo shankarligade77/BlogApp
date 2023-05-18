@@ -8,7 +8,7 @@ import Navbar from "./Navbar";
 const Blogs = () => {
 
  //hello world
-
+//hello
   const navigate = useNavigate()
 
   const [blogs, setBlog] = useState()
