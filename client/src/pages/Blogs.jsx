@@ -7,7 +7,7 @@ import Navbar from "./Navbar";
 
 const Blogs = () => {
 
- //hello
+ //hello world
 
   const navigate = useNavigate()
 
